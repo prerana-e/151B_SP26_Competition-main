@@ -1,6 +1,6 @@
 .claude
 .venv
 results
-data
+# data
 __pycache__
 LICENSE
