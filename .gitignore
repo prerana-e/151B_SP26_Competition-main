@@ -4,3 +4,11 @@ results
 # data
 __pycache__
 LICENSE
+# large training/model artifacts
+training/sft_lora/
+training/merged_sft/
+training/*.jsonl
+training/*.log
+*.safetensors
+*.pt
+*.bin
