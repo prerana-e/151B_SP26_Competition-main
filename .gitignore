@@ -6,6 +6,7 @@ __pycache__
 LICENSE
 # large training/model artifacts
 training/sft_lora/
+training/dpo_lora/
 training/merged_sft/
 training/*.jsonl
 training/*.log
